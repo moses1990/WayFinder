@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_pin_background.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_pin_background.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/amenitiesheader.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/amenitiesheader.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/endlocation.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/endlocation.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__get_directions_bottom_bar_bg.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__get_directions_bottom_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_location_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_location_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shaze.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/shaze.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/startlocation.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/startlocation.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_navigation_close.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_navigation_close.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_location_found_tick_bg.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_location_found_tick_bg.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/coverstory.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/coverstory.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/montblanc.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/montblanc.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/michaelkors.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/michaelkors.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/canali.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/canali.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hackett.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/hackett.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/wacoal.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/wacoal.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_straight_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_straight_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_close_blue.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_close_blue.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_action_done.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_action_done.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/samsoniteblacklabel.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/samsoniteblacklabel.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/categories.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/categories.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lladro.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/lladro.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/beinghuman.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/beinghuman.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/findheader.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/findheader.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/locateme.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/locateme.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hm.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/hm.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/atesberbyinc5.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/atesberbyinc5.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hunkemoller.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/hunkemoller.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/map_escalator.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/map_escalator.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_right_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_right_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/springfield.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/springfield.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_av_volume_up.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_av_volume_up.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_washroom.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/Intripper_2.5/res/drawable-xhdpi-v4/ic_washroom.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/map_elevator.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/map_elevator.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_start_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_start_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_recenter_button_icon.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_recenter_button_icon.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/amenities.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/amenities.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/paversengland.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/paversengland.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__search_bar_bg_new.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__search_bar_bg_new.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_local_search_general.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_local_search_general.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_slight_left_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_slight_left_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_escalat_charcoal_grey_opac.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_escalat_charcoal_grey_opac.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/coach.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/coach.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/newbalance.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/newbalance.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lecreuset.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/lecreuset.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/paulshark.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/paulshark.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/thecollective.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/thecollective.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/katespade.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/katespade.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/thaispa.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/thaispa.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/wayfinderlocater.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/wayfinderlocater.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__apptheme_textfield_disabled_holo_light.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__apptheme_textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_hardware_keyboard_backspace.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_hardware_keyboard_backspace.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_get_direction_indoor_white.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_get_direction_indoor_white.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__apptheme_textfield_default_holo_light.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__apptheme_textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/elevators.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/elevators.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/splash.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__menu_icon.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__menu_icon.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_maps_layers.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_maps_layers.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/calonge.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/calonge.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tumi.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/tumi.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/meenabazaar.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/meenabazaar.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_escalator_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_escalator_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/it__user_location.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/Intripper_2.5/res/drawable-xhdpi-v4/it__user_location.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_escalator_white.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_escalator_white.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/alphabets.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/alphabets.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/gridplaceholder.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/gridplaceholder.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__floor_detection_bg.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__floor_detection_bg.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_av_volume_off.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_av_volume_off.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rarerabit.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/rarerabit.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/palladiumcentercircle.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/palladiumcentercircle.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dune.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/dune.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_maps_navigation.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_maps_navigation.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/customersupport.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/customersupport.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/categoriesheader.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/categoriesheader.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_left_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_left_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_user_position_icon.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_user_position_icon.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_destination_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_destination_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__apptheme_textfield_disabled_focused_holo_light.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__apptheme_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reposition.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/reposition.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__apptheme_textfield_activated_holo_light.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__apptheme_textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/vajor.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/vajor.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/satyapaul.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/satyapaul.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/downesc.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/downesc.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__ic_white_needle.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__ic_white_needle.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_turn_slight_right_charcoal_grey.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/ic_turn_slight_right_charcoal_grey.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/map_restroom.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/map_restroom.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/kompanero.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/kompanero.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/upesc.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/upesc.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cadini.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/cadini.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cku.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/cku.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_cdgval.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/Intripper_2.5/res/drawable-xhdpi-v4/ic_cdgval.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__searchbar_bg_green.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__searchbar_bg_green.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/toilets.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/toilets.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shoppersstop.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/shoppersstop.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/customersupportheader.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/customersupportheader.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__apptheme_textfield_focused_holo_light.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__apptheme_textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__offer_card_bg.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__offer_card_bg.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/si_in_lb__navigation_top_bar_bg.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/si_in_lb__navigation_top_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hugoboss.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/hugoboss.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/indiacircus.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/indiacircus.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/build/intermediates/res/merged/debug/drawable-xhdpi-v4/emptystore.png",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/intripperLibrary/src/main/res/drawable-xhdpi/emptystore.png"
+    }
+]

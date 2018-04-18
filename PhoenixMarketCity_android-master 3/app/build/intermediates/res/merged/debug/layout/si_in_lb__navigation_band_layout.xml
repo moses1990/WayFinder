@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+      android:id = "@+id/navigation_detail_container"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "match_parent"
+      android:layout_height = "100dp"
+      android:layout_alignParentBottom = "true"
+      android:clickable = "true"
+      android:elevation = "10dp"
+      android:visibility = "invisible"
+      >
+
+      <RelativeLayout
+            android:id = "@+id/navigation_band"
+            android:layout_width = "match_parent"
+            android:layout_height = "70dp"
+            android:layout_alignParentBottom = "true"
+            android:background = "@color/light_navy_blue_color"
+            >
+
+            <RelativeLayout
+                  android:id = "@+id/navigation_location_container"
+                  android:layout_width = "wrap_content"
+                  android:layout_height = "wrap_content"
+                  android:layout_alignParentLeft = "true"
+                  android:layout_centerVertical = "true"
+                  android:layout_gravity = "bottom"
+                  android:layout_marginLeft = "5dp"
+                  android:padding = "8dip"
+                  >
+
+                  <TextView
+                        android:id = "@+id/navigation_detail_description"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_marginBottom = "3dp"
+                        android:ellipsize = "end"
+                        android:maxLines = "1"
+                        android:text = "To: Kate Spade New York"
+                        android:textColor = "@android:color/white"
+                        android:textSize = "@dimen/description_text_size"
+                        />
+
+                  <TextView
+                        android:id = "@+id/navigation_time"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_below = "@+id/navigation_detail_description"
+                        android:layout_marginTop = "1dp"
+                        android:text = "2 min"
+                        android:textColor = "@android:color/white"
+                        android:textSize = "@dimen/description_sub_text_size"
+                        android:visibility = "visible"
+                        />
+
+                  <ImageView
+                        android:id = "@+id/image_dot"
+                        android:layout_width = "7dp"
+                        android:layout_height = "7dp"
+                        android:layout_below = "@+id/navigation_detail_description"
+                        android:layout_marginLeft = "5dp"
+                        android:layout_marginTop = "6dp"
+                        android:layout_toRightOf = "@+id/navigation_time"
+                        android:alpha = "0.8"
+                        android:src = "@drawable/si_in_lb__white_dot"
+                        />
+
+                  <TextView
+                        android:id = "@+id/navigation_distance"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_below = "@+id/navigation_detail_description"
+                        android:layout_centerVertical = "true"
+                        android:layout_marginLeft = "6dp"
+                        android:layout_marginTop = "1dip"
+                        android:layout_toRightOf = "@+id/image_dot"
+                        android:text = "(120 meters)"
+                        android:textColor = "@color/band_green"
+                        android:textSize = "@dimen/description_sub_text_size"
+                        android:visibility = "visible"
+                        />
+
+                  <ImageView
+                        android:id = "@+id/image_dot_1"
+                        android:layout_width = "7dp"
+                        android:layout_height = "7dp"
+                        android:layout_below = "@+id/navigation_detail_description"
+                        android:layout_marginLeft = "5dp"
+                        android:layout_marginTop = "6dp"
+                        android:layout_toRightOf = "@+id/navigation_distance"
+                        android:alpha = "0.9"
+                        android:src = "@drawable/si_in_lb__white_dot"
+                        />
+
+                  <TextView
+                        android:id = "@+id/floor_descripter"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_below = "@+id/navigation_detail_description"
+                        android:layout_centerVertical = "true"
+                        android:layout_marginLeft = "5dp"
+                        android:layout_marginTop = "2dip"
+                        android:layout_toRightOf = "@+id/image_dot_1"
+                        android:text = "(1 floor down)"
+                        android:textColor = "@color/app_blue_color"
+                        android:textSize = "@dimen/description_sub_text_size"
+                        android:visibility = "invisible"
+                        />
+            </RelativeLayout >
+      </RelativeLayout >
+
+      <RelativeLayout
+            android:id = "@+id/start_navigation_container"
+            android:layout_width = "60dp"
+            android:layout_height = "60dp"
+            android:layout_alignParentBottom = "true"
+            android:layout_alignParentRight = "true"
+            android:layout_marginBottom = "40dp"
+            android:layout_marginRight = "5dp"
+            android:background = "@drawable/si_in_lb__blue_circular_background_presseffect_drawable"
+            android:clickable = "true"
+            android:elevation = "5dp"
+            android:visibility = "visible"
+            >
+
+            <ImageView
+                  android:id = "@+id/start_navigation"
+                  android:layout_width = "wrap_content"
+                  android:layout_height = "wrap_content"
+                  android:layout_centerInParent = "true"
+                  android:clickable = "true"
+                  android:padding = "10dip"
+                  android:rotation = "45"
+                  android:src = "@drawable/si_in_lb__ic_maps_navigation"
+                  android:visibility = "visible"
+                  />
+
+            <ImageView
+                  android:id = "@+id/stop_navigation"
+                  android:layout_width = "wrap_content"
+                  android:layout_height = "wrap_content"
+                  android:layout_centerInParent = "true"
+                  android:clickable = "true"
+                  android:padding = "10dip"
+                  android:src = "@drawable/si_in_lb__ic_action_cancel"
+                  android:visibility = "invisible"
+                  />
+      </RelativeLayout >
+
+      <RelativeLayout
+          android:id = "@+id/close_navigation_container"
+          android:layout_width = "60dp"
+          android:layout_height = "60dp"
+          android:layout_marginRight="10dp"
+          android:layout_toLeftOf="@+id/start_navigation_container"
+          android:clickable = "true"
+          android:elevation = "5dp"
+          android:visibility = "visible"
+          android:background = "@drawable/si_in_lb__blue_circular_background_presseffect_drawable"
+          >
+            <ImageView
+                android:id = "@+id/close_navigation"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+                android:layout_centerInParent = "true"
+                android:clickable = "true"
+                android:padding = "10dip"
+                android:src = "@drawable/si_in_lb__ic_action_cancel"
+                android:visibility = "visible"
+                />
+      </RelativeLayout >
+
+</RelativeLayout >

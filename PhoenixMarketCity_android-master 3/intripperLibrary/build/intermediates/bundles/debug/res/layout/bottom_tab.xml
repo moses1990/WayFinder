@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/bottomTab">
+
+
+
+    <ImageButton
+        android:visibility="gone"
+        android:layout_width="100dp"
+        android:src="@drawable/palladiumicon"
+        android:background="@null"
+        android:id="@+id/palladiumButton"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="20dp"
+        android:layout_height="100dp" />
+
+    <ImageButton
+        android:visibility="gone"
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/palladiumButton"
+        android:layout_width="100dp"
+        android:src="@drawable/pmcicon"
+        android:background="@null"
+        android:id="@+id/pmcButton"
+        android:adjustViewBounds="true"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:layout_height="100dp" />
+
+    <LinearLayout
+        android:id="@+id/palladiumfloors"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentRight="true"
+        android:elevation="3dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="50dp"
+            android:text="FF"
+            android:id="@+id/p1Button"
+            android:background="@drawable/borderradius"
+            android:layout_height="50dp" />
+        <Button
+            android:layout_width="50dp"
+            android:text="UG"
+            android:id="@+id/pugButton"
+            android:background="#ffffff"
+            android:layout_height="50dp" />
+        <Button
+            android:layout_width="50dp"
+            android:text="LG"
+            android:id="@+id/pgButton"
+            android:background="@drawable/bottomradius"
+            android:layout_height="50dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/pmcfloors"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentRight="true"
+        android:visibility="gone"
+        android:elevation="1dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="50dp"
+            android:text="LG"
+            android:id="@+id/lgButton"
+            android:background="@drawable/borderradius"
+            android:layout_height="50dp" />
+        <Button
+            android:layout_width="50dp"
+            android:text="G"
+            android:id="@+id/gButton"
+            android:background="#ffffff"
+            android:layout_height="50dp" />
+        <Button
+            android:layout_width="50dp"
+            android:text="L1"
+            android:id="@+id/l1Button"
+            android:background="#ffffff"
+            android:layout_height="50dp" />
+        <Button
+            android:layout_width="50dp"
+            android:text="L2"
+            android:id="@+id/l2Button"
+            android:background="#ffffff"
+            android:layout_height="50dp" />
+        <Button
+            android:layout_width="50dp"
+            android:text="L3"
+            android:id="@+id/l3Button"
+            android:background="@drawable/bottomradius"
+            android:layout_height="50dp" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:elevation="3dp"
+        android:background="#D8D8D8"
+        android:id="@+id/bottomLinearLayout"
+        android:layout_below="@+id/palladiumfloors"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:textAlignment="viewStart"
+                android:paddingLeft="40dp"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:layout_marginRight="0.5dp"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/alphabets"
+                android:text="     Find By Name"
+                android:id="@+id/findByName"/>
+            <Button
+                android:textAlignment="viewStart"
+                android:paddingLeft="70dp"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:id="@+id/mallAmenitiesButton"
+                android:drawableLeft="@drawable/amenities"
+                android:text="     Mall Amenities"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0.5dp"
+            android:orientation="horizontal">
+            <Button
+                android:textAlignment="viewStart"
+                android:paddingLeft="40dp"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginRight="0.5dp"
+                android:background="#ffffff"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/categories"
+                android:id="@+id/findByCategory"
+                android:text="     Find By Category"/>
+            <Button
+                android:textAlignment="viewStart"
+                android:paddingLeft="70dp"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:id="@+id/customerSupportButton"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:drawableLeft="@drawable/customersupport"
+                android:text="     Customer Support"/>
+        </LinearLayout>
+        
+        
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/centerImage"
+        android:elevation="4dp"
+        android:layout_width="100dp"
+        android:clickable="true"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-150dp"
+        android:layout_below="@+id/bottomLinearLayout"
+        android:src="@drawable/palladiumcentercircle"/>
+
+</RelativeLayout>

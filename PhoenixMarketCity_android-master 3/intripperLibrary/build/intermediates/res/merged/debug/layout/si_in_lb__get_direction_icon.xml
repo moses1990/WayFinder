@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+      android:id = "@+id/rel_get_directions"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "55dp"
+      android:layout_height = "55dp"
+      android:layout_alignParentBottom = "true"
+      android:layout_alignParentRight = "true"
+      android:layout_marginBottom = "5dp"
+      android:layout_marginRight = "5dp"
+      android:background = "@drawable/si_in_lb__get_direction_image_background"
+      android:clickable = "true"
+      android:elevation = "5dp"
+      android:visibility = "gone"
+      >
+
+      <ImageView
+            android:id = "@+id/get_directions"
+            android:layout_width = "match_parent"
+            android:layout_height = "match_parent"
+            android:layout_centerInParent = "true"
+            android:padding = "15dp"
+            android:src = "@drawable/si_in_lb__ic_get_direction_indoor_white"
+            android:visibility = "visible"
+            />
+</RelativeLayout >

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+                android:layout_width = "match_parent"
+                android:layout_height = "wrap_content"
+                android:padding = "10dip"
+      >
+
+      <TextView
+            android:id = "@+id/map_area_name"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_marginLeft = "10dip"
+            android:text = "Macy's"
+            android:textColor = "@color/band_blue"
+            android:textSize = "15dip"
+            />
+
+      <TextView
+            android:id = "@+id/map_area_detail"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_below = "@+id/map_area_name"
+            android:layout_marginLeft = "10dip"
+            android:layout_marginTop = "5dip"
+            android:text = "Macy's"
+            android:textColor = "@color/charcoal_grey"
+            android:textSize = "12dip"
+            />
+</RelativeLayout >

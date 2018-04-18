@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+      android:id = "@+id/rel_outer_floorList_container"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "wrap_content"
+      android:layout_height = "wrap_content"
+      android:layout_alignParentTop = "true"
+      android:layout_marginTop = "0dp"
+      android:visibility="visible"
+      >
+
+      <RelativeLayout
+            android:id = "@+id/rel_floorlist_container"
+            android:layout_width = "0dp"
+            android:layout_height = "0dp"
+            android:layout_marginLeft = "5dp"
+            android:visibility = "visible"
+            >
+
+            <ImageView
+                  android:layout_width = "match_parent"
+                  android:layout_height = "match_parent"
+                  android:layout_centerInParent = "true"
+                  android:padding = "12dp"
+                  />
+
+      </RelativeLayout >
+
+      <TextView
+            android:id = "@+id/selected_level"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_centerInParent = "true"
+            android:layout_toRightOf = "@+id/rel_floorlist_container"
+            android:padding = "3dp"
+            android:shadowColor = "@color/si_in_lb__white"
+            android:shadowDx = "4"
+            android:shadowDy = "4"
+            android:shadowRadius = "4"
+            android:text = "LEVEL 0"
+            android:textAllCaps = "true"
+            android:textColor = "@color/si_in_lb__floor_level_color"
+            android:textSize = "11sp"
+            android:textStyle = "bold"
+            android:visibility = "gone"
+            />
+</RelativeLayout >

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+      >
+
+      <RelativeLayout
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:background = "@drawable/si_in_lb__callout_bg_black"
+            android:paddingLeft = "15dip"
+            android:paddingRight = "15dip"
+            android:paddingTop = "15dip"
+            >
+
+            <TextView
+                  android:id = "@+id/map_area_name"
+                  android:layout_width = "wrap_content"
+                  android:layout_height = "wrap_content"
+                  android:layout_centerHorizontal = "true"
+                  android:text = "Some dummy text"
+                  android:textColor = "@color/si_in_lb__white"
+                  android:textSize = "14dip"
+                  />
+      </RelativeLayout >
+</RelativeLayout >

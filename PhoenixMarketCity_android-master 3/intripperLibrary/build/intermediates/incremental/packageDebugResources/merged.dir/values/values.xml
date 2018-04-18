@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <integer-array name="gplus_colors">
+            <item>@color/search_green</item>
+            <item>@color/loader_blue</item>
+            <item>@color/loader_dark_blue</item>
+            <item>@color/band_orange</item>
+      </integer-array>
+    <color name="app_blue_color">#CC0ABAFD</color>
+    <color name="app_primary_color">#2ec5af</color>
+    <color name="badger_red_color">#FFFF0000</color>
+    <color name="band_blue">#FF5B9BD5</color>
+    <color name="band_green">#FF29ABA4</color>
+    <color name="band_orange">#FFEB7260</color>
+    <color name="black_semi_transparent">#6F000000</color>
+    <color name="blue_dark">#FF202934</color>
+    <color name="charcoal_grey">#FF354458</color>
+    <color name="dark_divider_color">#55404040</color>
+    <color name="dark_navy_blue_color_navigation">#FF2E3B4C</color>
+    <color name="dark_text_color">#FF404040</color>
+    <color name="dialog_blue">#FF3A9AD9</color>
+    <color name="floorhighlighted">#F7F7F7</color>
+    <color name="floorhighlightedtext">#6a7e7c</color>
+    <color name="floortext">#000000</color>
+    <color name="grey_box_border_color">#FFCACACA</color>
+    <color name="grey_shaded_color_translucent">#80354458</color>
+    <color name="grey_text_color">#FFD2D4D6</color>
+    <color name="light_navy_blue_color">#FF3D4E65</color>
+    <color name="loader_blue">#FF3A9AD9</color>
+    <color name="loader_dark_blue">#FF3D4E65</color>
+    <color name="navigation_normal_color">#002B7EB9</color>
+    <color name="navigation_pressed_color">#302B7EB9</color>
+    <color name="offer_card_light_grey">#FFA6A6A6</color>
+    <color name="pager_status_color">#FF247DBA</color>
+    <color name="primary_green_color">#2ec5af</color>
+    <color name="search_bar_color">#F8F8F8</color>
+    <color name="search_green">#FF0BC7B4</color>
+    <color name="search_layout_bg">#FFEEEEEE</color>
+    <color name="search_screen_status_bar_tint">#FF089F90</color>
+    <color name="si_in_lb__black">#FF000000</color>
+    <color name="si_in_lb__border_grey_color">#D3D3D3</color>
+    <color name="si_in_lb__colorAccent">#FF4081</color>
+    <color name="si_in_lb__colorPrimary">#3F51B5</color>
+    <color name="si_in_lb__colorPrimaryDark">#303F9F</color>
+    <color name="si_in_lb__floor_level_color">#FF3D4E65</color>
+    <color name="si_in_lb__transparent">#00FFFFFF</color>
+    <color name="si_in_lb__white">#FFFFFFFF</color>
+    <color name="status_bar_blue_color">#FF247DBA</color>
+    <declare-styleable name="il_MaterialRippleLayout"><attr format="color" localization="suggested" name="il_mrl_rippleColor"/><attr format="dimension" localization="suggested" name="il_mrl_rippleDimension"/><attr format="boolean" localization="suggested" name="il_mrl_rippleOverlay"/><attr format="float" localization="suggested" name="il_mrl_rippleAlpha"/><attr format="integer" localization="suggested" name="il_mrl_rippleDuration"/><attr format="integer" localization="suggested" name="il_mrl_rippleFadeDuration"/><attr format="boolean" localization="suggested" name="il_mrl_rippleHover"/><attr format="color" localization="suggested" name="il_mrl_rippleBackground"/><attr format="boolean" localization="suggested" name="il_mrl_rippleDelayClick"/><attr format="boolean" localization="suggested" name="il_mrl_ripplePersistent"/><attr format="boolean" localization="suggested" name="il_mrl_rippleInAdapter"/><attr format="dimension" localization="suggested" name="il_mrl_rippleRoundedCorners"/></declare-styleable>
+    <declare-styleable name="il_ShimmerFrameLayout"><attr format="boolean" name="il_auto_start"/><attr format="float" name="il_base_alpha"/><attr format="integer" name="il_duration"/><attr format="integer" name="il_repeat_count"/><attr format="integer" name="il_repeat_delay"/><attr format="enum" name="il_repeat_mode">
+                  <enum name="restart" value="1"/>
+                  <enum name="reverse" value="2"/>
+            </attr><attr format="enum" name="il_angle">
+                  <enum name="cw_0" value="0"/>
+                  <enum name="cw_90" value="90"/>
+                  <enum name="cw_180" value="180"/>
+                  <enum name="cw_270" value="270"/>
+            </attr><attr format="float" name="il_dropoff"/><attr format="dimension" name="il_fixed_width"/><attr format="dimension" name="il_fixed_height"/><attr format="float" name="il_intensity"/><attr format="float" name="il_relative_width"/><attr format="float" name="il_relative_height"/><attr format="enum" name="il_shape">
+                  <enum name="linear" value="0"/>
+                  <enum name="radial" value="1"/>
+            </attr><attr format="float" name="il_tilt"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="description_sub_text_size">13sp</dimen>
+    <dimen name="description_text_size">15sp</dimen>
+    <dimen name="offer_title_size">17sp</dimen>
+    <dimen name="pager_text_size">18sp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <string name="Fashion_Accessories">Fashion &amp; Accessories</string>
+    <string name="Foot_Fashion_Bags_Luggage_Accessories">Shoes, bags &amp; luggage</string>
+    <string name="Lingerie_Innerwears">Lingerie &amp; Innerwears</string>
+    <string name="Pens_Books_Music_Toys_Games">Books,Music,Toys &amp; Games</string>
+    <string name="Sportswear_Sportsgear">Sports</string>
+    <string name="Womens_Fashion">Womens Fashion</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Intripper library project</string>
+    <string name="books_music_toys_games">Books, Music, Toys &amp; Games</string>
+    <string name="cafes_restaurants_desserts_gourmet">Food</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">915cd24a-70c0-4588-89c0-27068aed1936</string>
+    <string name="cosmetics_salon_spas_optics">Cosmetics, Salon, Spas &amp; Optics</string>
+    <string name="electronics_gizmos_gadgets">Electronics, Gizmos &amp; Gadgets</string>
+    <string name="foot_fashion_bags_luggage_accessories">Foot Fashion, Bags, Luggage &amp; Accessories</string>
+    <string name="home_accessories_gifts_hobbies">Home Accessories, Gifts &amp; Hobbiess</string>
+    <string name="watches_fashion_accessories">Watches &amp; Fashion Accessories</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            
+            <item name="colorPrimary">@color/si_in_lb__colorPrimary</item>
+            <item name="colorPrimaryDark">@color/si_in_lb__colorPrimaryDark</item>
+            <item name="colorAccent">@color/si_in_lb__colorAccent</item>
+      </style>
+    <style name="si_in_lb__AutoCompleteTextViewAppTheme" parent="android:Widget.AutoCompleteTextView">
+            <item name="android:background">@drawable/si_in_lb__apptheme_edit_text_holo_light</item>
+            <item name="android:popupBackground">@drawable/si_in_lb__search_bar_bg_new</item>
+            <item name="android:dropDownVerticalOffset">10dip</item>
+      </style>
+    <style name="si_in_lb__IntripperDialogStyle">
+            <item name="android:windowFrame">@null</item>
+            <item name="android:windowBackground">@android:color/transparent</item>
+            <item name="android:windowIsFloating">true</item>
+            <item name="android:windowSoftInputMode">adjustResize|stateHidden</item>
+            <item name="android:windowContentOverlay">@null</item>
+            <item name="android:windowTitleStyle">@null</item>
+            <item name="android:colorBackground">#ffffff</item>
+            <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+            <item name="android:backgroundDimEnabled">true</item>
+            <item name="android:textColor">#FF0000</item>
+            <item name="android:padding">10dp</item>
+      </style>
+    <style name="si_in_lb__MyDialogStyle">
+            <item name="android:windowFrame">@null</item>
+            <item name="android:windowBackground">@android:color/transparent</item>
+            <item name="android:windowIsFloating">true</item>
+            <item name="android:windowSoftInputMode">adjustResize|stateHidden</item>
+            <item name="android:windowContentOverlay">@null</item>
+            <item name="android:windowTitleStyle">@null</item>
+            <item name="android:colorBackground">#ffffff</item>
+            <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+            <item name="android:backgroundDimEnabled">false</item>
+            <item name="android:textColor">#FF0000</item>
+            <item name="android:padding">10dp</item>
+      </style>
+    <style name="si_in_lb__RerouteDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+            <item name="android:textColorPrimary">@color/si_in_lb__floor_level_color</item>
+            <item name="android:background">#ffffff</item>
+            <item name="android:windowBackground">@android:color/transparent</item>
+            <item name="android:windowIsFloating">true</item>
+            <item name="android:windowSoftInputMode">adjustResize|stateHidden</item>
+
+      </style>
+    <style name="si_in_lb__floorAnimation">
+            <item name="android:windowEnterAnimation">@anim/si_in_lb__bounce_pop_up</item>
+            <item name="android:windowExitAnimation">@anim/si_in_lb__bounce_pop_up_close</item>
+      </style>
+</resources>

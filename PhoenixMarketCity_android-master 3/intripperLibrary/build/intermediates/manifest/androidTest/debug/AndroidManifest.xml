@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sanginfo.intripper.libraryproject.test" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.sanginfo.intripper.libraryproject.test"
+        android:targetPackage="com.sanginfo.intripper.libraryproject.test" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" /> <!-- Required to show current location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- Required OpenGL ES 2.0. for Maps V2 -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+    <application
+        android:allowBackup="true"
+        android:allowClearUserData="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.sanginfo.intripper.libraryproject.ui.MapActivity"
+            android:isScrollContainer="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.sanginfo.intripper.libraryproject.ui.SearchScreen"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" /> <!-- Intripper Venue ID -->
+        <meta-data
+            android:name="com.sanginfo.intripper.VENUE_ID"
+            android:value="60" /> <!-- Intripper Auth Token -->
+        <meta-data
+            android:name="com.sanginfo.intripper.AUTH_TOKEN"
+            android:value="9E393CF3-FA04-44C3-909C-474212DD71C5" />
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="6c7b9be30b7bfc7017e5e99f22d43ee169349fb0" />
+
+        <activity
+            android:name="com.sanginfo.intripper.libraryproject.ui.VideoPreviewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.sanginfo.intripper" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.sanginfo.intripper.receiver.IntripperLocationReceiver" >
+            <intent-filter>
+                <action android:name="com.sanginfo.intripper.location.receive" >
+                </action>
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.sanginfo.intripper.ads.AdIntentService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.sanginfo.intripper.ads.GcmIDListener"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.sanginfo.intripper.service.IntripperRegIntentService"
+            android:exported="false" >
+        </service>
+        <service android:name="com.sanginfo.intripper.service.CloudLocationUpdateService" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="net.hockeyapp.android.UpdateActivity" />
+        <activity
+            android:name="net.hockeyapp.android.FeedbackActivity"
+            android:windowSoftInputMode="adjustResize|stateVisible" />
+        <activity android:name="net.hockeyapp.android.PaintActivity" />
+        <activity android:name="net.hockeyapp.android.LoginActivity" />
+        <activity android:name="net.hockeyapp.android.ExpiryInfoActivity" />
+    </application>
+
+</manifest>

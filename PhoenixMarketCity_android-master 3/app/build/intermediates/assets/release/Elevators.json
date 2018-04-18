@@ -1,0 +1,104 @@
+[
+  {
+    "floor": 0,
+    "elevators": [
+      {
+        "name": "Elevator 1",
+        "description": "One near Diesel",
+        "id": "E1",
+        "lasthit": "",
+        "direction": "up",
+        "type": "elevator",
+        "coordinates": [
+          [
+            18.994105,
+            72.82411
+          ],
+          [
+            18.994138,
+            72.824117
+          ],
+          [
+            18.994116,
+            72.824238
+          ],
+          [
+            18.994081,
+            72.82423
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "floor": 1,
+    "elevators": [
+      {
+        "name": "Elevator 2",
+        "description": "One near Mango",
+        "id": "E2",
+        "lasthit": "",
+        "direction": "up",
+        "type": "elevator",
+        "coordinates": [
+          [18.99406,72.82444],[18.99403,72.82439],[18.99401,72.82442],[18.99403,72.82445],[18.99402,72.82446],[18.99403,72.82448]
+        ]
+      },
+      {
+        "name": "Elevator 3",
+        "description": "near Steve Madden",
+        "id": "E3",
+        "lasthit": "",
+        "direction": "down",
+        "type": "elevator",
+        "coordinates": [
+          [18.99414,72.82413],[18.99411,72.82411],[18.99411,72.82412],[18.9941,72.82415],[18.99413,72.82416]
+        ]
+      }
+    ]
+  },
+  {
+    "floor": 2,
+    "elevators": [
+      {
+        "name": "Elevator 4",
+        "description": "One near DKNY",
+        "id": "E4",
+        "lasthit": "",
+        "direction": "up",
+        "type": "elevator",
+        "coordinates": [
+          [18.99405,72.82444],[18.99402,72.82439],[18.994,72.82441],[18.99402,72.82445],[18.99401,72.82446],[18.99403,72.82447]
+        ]
+      },
+      {
+        "name": "Elevator 5",
+        "description": "One near Rohit Bal",
+        "id": "E5",
+        "lasthit": "",
+        "direction": "down",
+        "type": "elevator",
+        "coordinates": [
+          [18.99396,72.82435],[18.99397,72.82436],[18.99399,72.8244],[18.99401,72.82438],[18.99399,72.82434],[18.994,72.82433],[18.99399,72.82431]
+        ]
+      }
+    ]
+  },
+  {
+    "floor": 3,
+    "elevators": [
+      {
+        "name": "Elevator 6",
+        "description": "One near After Shock",
+        "id": "E6",
+        "lasthit": "",
+        "direction": "down",
+        "type": "elevator",
+        "coordinates": [
+
+          [18.99399,72.82432],[18.99402,72.82438],[18.994,72.82439],[18.99397,72.82435]
+        ]
+      }
+    ]
+  }
+]

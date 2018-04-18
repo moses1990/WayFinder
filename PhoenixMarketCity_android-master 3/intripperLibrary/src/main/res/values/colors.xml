@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+      <color name = "si_in_lb__colorPrimary" >#3F51B5</color >
+      <color name = "si_in_lb__colorPrimaryDark" >#303F9F</color >
+      <color name = "si_in_lb__colorAccent" >#FF4081</color >
+
+      <color name = "si_in_lb__floor_level_color" >#FF3D4E65</color >
+      <color name = "si_in_lb__border_grey_color" >#D3D3D3</color >
+
+      <color name = "si_in_lb__white" >#FFFFFFFF</color >
+      <color name = "si_in_lb__black" >#FF000000</color >
+      <color name = "si_in_lb__transparent" >#00FFFFFF</color >
+
+      <color name = "pager_status_color" >#FF247DBA</color >
+      <color name = "dark_navy_blue_color_navigation" >#FF2E3B4C</color >
+      <color name = "band_blue" >#FF5B9BD5</color >
+      <color name = "blue_dark" >#FF202934</color >
+      <color name = "offer_card_light_grey" >#FFA6A6A6</color >
+      <color name = "dialog_blue" >#FF3A9AD9</color >
+      <color name = "charcoal_grey" >#FF354458</color >
+      <color name = "navigation_pressed_color" >#302B7EB9</color >
+      <color name = "navigation_normal_color" >#002B7EB9</color >
+      <color name = "app_blue_color" >#CC0ABAFD</color >
+      <color name = "badger_red_color" >#FFFF0000</color >
+      <color name = "grey_box_border_color" >#FFCACACA</color >
+      <color name = "band_green" >#FF29ABA4</color >
+      <color name = "primary_green_color" >#2ec5af</color >
+      <color name = "grey_text_color" >#FFD2D4D6</color >
+      <color name = "light_navy_blue_color" >#FF3D4E65</color >
+      <color name = "black_semi_transparent" >#6F000000</color >
+      <color name = "search_layout_bg" >#FFEEEEEE</color >
+      <color name = "search_green" >#FF0BC7B4</color >
+      <color name = "dark_divider_color" >#55404040</color >
+      <color name = "grey_shaded_color_translucent" >#80354458</color >
+      <color name = "search_bar_color" >#F8F8F8</color >
+      <color name = "dark_text_color" >#FF404040</color >
+      <color name = "search_screen_status_bar_tint" >#FF089F90</color >
+      <color name = "app_primary_color" >#2ec5af</color >
+      <color name = "loader_blue" >#FF3A9AD9</color >
+      <color name = "loader_dark_blue" >#FF3D4E65</color >
+      <color name="status_bar_blue_color">#FF247DBA</color>
+      <color name = "band_orange" >#FFEB7260</color >
+      <color name="floorhighlighted">#F7F7F7</color>
+      <color name="floorhighlightedtext">#6a7e7c</color>
+      <color name="floortext">#000000</color>
+      <color name="app_text_white">#ffffff</color>
+      <integer-array name = "gplus_colors" >
+            <item >@color/search_green</item >
+            <item >@color/loader_blue</item >
+            <item >@color/loader_dark_blue</item >
+            <item >@color/band_orange</item >
+      </integer-array >
+</resources >

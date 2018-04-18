@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: classes.jar
+SHA-256-Digest: jeD+Wco4eB+xv67eK1U5bKNa9dEflDF6mjbIaTuXWvw=
+
+Name: aapt/AndroidManifest.xml
+SHA-256-Digest: 3XCbGHLZS1DT4qQVtSnWvw6OSHQog0O2RN69vj1TWM8=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 3XCbGHLZS1DT4qQVtSnWvw6OSHQog0O2RN69vj1TWM8=
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_semi_transparent"
+    android:orientation="vertical"
+    android:visibility="invisible">
+
+    <RelativeLayout
+        android:id="@+id/bg_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/search_layout_bg"
+        android:visibility="visible">
+
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/search_bar"
+        layout="@layout/si_in_lb__header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dip"></include>
+
+    <RelativeLayout
+        android:id="@+id/content_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/search_bar"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:visibility="invisible">
+
+        <LinearLayout
+            android:id="@+id/bottom_lin_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/nearby_header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/content_container"
+                android:layout_marginTop="5dp"
+                android:text="Nearby"
+                android:textColor="@color/search_green"
+                android:textSize="17dip"
+                android:visibility="gone"
+                />
+
+            <LinearLayout
+                android:id="@+id/nearby_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/nearby_header"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/si_in_lb__offer_card_bg"
+                android:orientation="horizontal"
+                android:paddingBottom="15dip"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="15dip"
+                android:weightSum="4"
+                android:visibility="gone"
+                >
+
+                <ImageView
+                    android:id="@+id/restroom_icon"
+                    android:layout_width="0dip"
+                    android:layout_height="25dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/si_in_lb__ic_poi_restroom_grey_1" />
+
+                <ImageView
+                    android:id="@+id/atm_icon"
+                    android:layout_width="0dip"
+                    android:layout_height="25dp"
+                    android:layout_weight="1"
+
+                    android:src="@drawable/si_in_lb__ic_poi_atm_grey_2" />
+
+                <ImageView
+                    android:id="@+id/cafe_icon"
+                    android:layout_width="0dip"
+                    android:layout_height="25dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/si_in_lb__ic_poi_cafe_grey" />
+
+                <ImageView
+                    android:id="@+id/info_desk_icon"
+                    android:layout_width="0dip"
+                    android:layout_height="25dp"
+                    android:layout_weight="1"
+
+                    android:src="@drawable/si_in_lb__ic_poi_infodesk_grey_1" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/history_header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="5dp"
+                android:text="Recent"
+                android:textColor="@color/search_green"
+                android:textSize="17dip" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/history_header"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/history_searchresults_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RelativeLayout
+                        android:id="@+id/search_history_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp">
+
+                        <ListView
+                            android:id="@+id/search_history_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/si_in_lb__offer_card_bg"
+                            android:divider="@color/dark_divider_color"
+                            android:dividerHeight="0.5dip"
+                            android:headerDividersEnabled="false"
+                            android:listSelector="@drawable/si_in_lb__search_list_bg"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp">
+
+                        </ListView>
+                        <!--android:background="@color/grey_shaded_color_translucent"
+                        android:divider="@drawable/grey_horizontal_solid_line"-->
+                        <TextView
+                            android:id="@+id/empty_history_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:background="@drawable/si_in_lb__offer_card_bg"
+                            android:gravity="center"
+                            android:paddingBottom="10dip"
+                            android:paddingTop="10dip"
+                            android:text="No search history"
+                            android:textColor="@color/charcoal_grey"
+                            android:textSize="@dimen/description_text_size"
+                            android:visibility="gone"></TextView>
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/textsearch_result_list_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dip"
+                        android:visibility="invisible">
+
+                        <ListView
+                            android:id="@+id/text_search_result_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/si_in_lb__offer_card_bg"
+                            android:divider="@color/dark_divider_color"
+                            android:dividerHeight="0.5dip"
+                            android:headerDividersEnabled="false"
+                            android:listSelector="@drawable/si_in_lb__search_list_bg"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"></ListView>
+
+                        <TextView
+                            android:id="@+id/empty_search_result_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:background="@drawable/si_in_lb__offer_card_bg"
+                            android:gravity="center"
+                            android:paddingBottom="10dip"
+                            android:paddingTop="10dip"
+                            android:text="No results found for your search."
+                            android:textColor="@color/charcoal_grey"
+                            android:textSize="@dimen/description_text_size"
+                            android:visibility="gone"></TextView>
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

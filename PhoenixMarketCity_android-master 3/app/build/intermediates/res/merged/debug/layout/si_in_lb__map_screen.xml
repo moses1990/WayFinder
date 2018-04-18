@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:si_in_lb__context="com.sanginfo.intripper.libraryproject.ui.MapActivity">
+
+
+    <!--map container starts -->
+    <fragment
+        android:id="@+id/map_container"
+        android:name="com.sanginfo.intripper.ui.IntripperMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></fragment>
+
+
+    <!--user Interaction container starts -->
+    <View
+        android:id="@+id/userInteractionView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></View>
+    <!--  user Interaction container ends -->
+
+    <!--navigation direction pager starts -->
+    <com.sanginfo.intripper.libraryproject.components.CustomViewpager
+        android:id="@+id/navigation_pager"
+        android:layout_width="match_parent"
+        android:layout_height="65dip"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/si_in_lb__navigation_top_bar_bg"
+        android:elevation="10dp"
+        android:visibility="invisible"></com.sanginfo.intripper.libraryproject.components.CustomViewpager>
+    <!--navigation direction pager ends -->
+
+    <!--intripper Area band starts -->
+    <include
+        layout="@layout/si_in_lb__area_band_layout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true" />
+    <!-- intripper Area band ends -->
+
+    <include
+        layout="@layout/bottom_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <include
+        layout="@layout/find_by_name_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <include
+        layout="@layout/storecontent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+    <include
+        layout="@layout/find_by_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+
+    <include
+        layout="@layout/amenities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <include
+        layout="@layout/customer_support"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+    <!--navigation band starts -->
+    <include
+        layout="@layout/si_in_lb__navigation_band_layout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true" />
+    <!--navigation band ends -->
+
+    <!--floor change message band starts -->
+    <include
+        layout="@layout/si_in_lb__floor_change_message_layout"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_alignParentBottom="true" />
+    <!--floor change message band ends -->
+
+    <!--offer bubble starts -->
+    <include
+        layout="@layout/si_in_lb__offer_bubble_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dip"
+        android:elevation="5dp" />
+    <!--offer bubble ends -->
+
+    <!--user position icon starts -->
+    <include
+        layout="@layout/si_in_lb__user_position_layout"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_above="@+id/rel_get_directions"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="20dp"
+        android:elevation="5dp" />
+    <!--user position icon ends -->
+
+    <!-- custom floor icon starts -->
+    <include
+        layout="@layout/si_in_lb__custom_floor_band"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:elevation="5dp"
+        />
+    <!--custom floor icon ends-->
+
+    <!--intripper logo on left top-->
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="18dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/intripper_logo_shadow"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="7dp"
+        android:visibility="gone"
+        android:alpha="0.8"
+        />
+    <!-- search icon starts -->
+    <include
+        layout="@layout/si_in_lb__search_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:clickable="true"
+        android:elevation="5dp"
+        android:paddingBottom="5dip"
+        android:paddingTop="8dip" />
+    <!--search icon ends -->
+
+    <!--get direction icon starts -->
+    <include
+        layout="@layout/si_in_lb__get_direction_icon"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/si_in_lb__get_direction_image_background"
+        android:clickable="true"
+        android:elevation="5dp" />
+    <!-- get direction icon ends -->
+
+    <!-- navigation volume icon starts -->
+    <ImageView
+        android:id="@+id/navigation_volume_button"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="75dp"
+        android:background="@drawable/si_in_lb__user_position_anchor_background"
+        android:padding="12dp"
+        android:src="@drawable/si_in_lb__ic_av_volume_off"
+        android:visibility="invisible" />
+    <!--navigation volume icon ends-->
+
+    <!--top navigation detail container starts -->
+    <include
+        layout="@layout/si_in_lb__top_navigation_detail_container"
+        android:layout_width="match_parent"
+        android:layout_height="103dp"
+        android:background="@drawable/si_in_lb__get_directions_bar_bg"
+        android:elevation="10dp"
+        android:paddingBottom="15dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip" />
+    <!--top navigation detail container ends -->
+
+    <!--recenter button during navigation starts-->
+    <Button
+        android:id="@+id/recenter"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/si_in_lb__button_grey_press_effect"
+        android:drawableLeft="@drawable/si_in_lb__ic_recenter_button_icon"
+        android:elevation="11dp"
+        android:text="Recenter  "
+        android:textColor="@color/intripper_blue_color"
+        android:visibility="gone" />
+    <!--recenter button during navigation ends-->
+
+    <!--map rotataion button starts -->
+    <ImageView
+        android:id="@+id/map_rotation_indicator"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/search_bar_container"
+        android:layout_marginRight="20dp"
+        android:elevation="5dp"
+        android:src="@drawable/reposition"
+        android:visibility="visible" />
+    <!-- map rotataion button ends -->
+
+    <include
+        layout="@layout/activity_video_preview"
+        android:background ="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+
+</RelativeLayout>
+

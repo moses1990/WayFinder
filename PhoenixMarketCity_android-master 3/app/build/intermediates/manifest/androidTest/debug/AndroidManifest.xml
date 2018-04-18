@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sanginfo.android.phoenix.test">
+
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="25" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.sanginfo.android.phoenix"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.sanginfo.android.phoenix"/>
+</manifest>

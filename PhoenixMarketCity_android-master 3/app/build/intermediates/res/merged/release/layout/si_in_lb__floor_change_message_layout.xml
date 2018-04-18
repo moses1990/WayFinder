@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+      android:id = "@+id/floor_change_band"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "match_parent"
+      android:layout_height = "110dp"
+      android:layout_alignParentBottom = "true"
+      android:elevation = "9dp"
+      android:visibility = "invisible"
+      >
+
+      <RelativeLayout
+            android:id = "@+id/floor_change_band_inner"
+            android:layout_width = "match_parent"
+            android:layout_height = "80dp"
+            android:layout_marginTop = "30dp"
+            android:background = "@drawable/si_in_lb__floor_detection_bg"
+            android:gravity = "center_vertical"
+            android:orientation = "horizontal"
+            >
+
+            <LinearLayout
+                  android:layout_width = "match_parent"
+                  android:layout_height = "match_parent"
+                  android:layout_centerVertical = "true"
+                  android:layout_marginBottom = "8dp"
+                  android:layout_marginLeft = "80dp"
+                  android:layout_marginRight = "70dp"
+                  android:layout_marginTop = "8dp"
+                  android:orientation = "vertical"
+                  >
+
+                  <TextView
+                        android:id = "@+id/floor_change_title"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_marginBottom = "2dip"
+                        android:layout_marginRight = "35dp"
+                        android:ellipsize = "end"
+                        android:gravity = "center_vertical"
+                        android:singleLine = "true"
+                        android:text = "Moving between floors?"
+                        android:textColor = "@color/si_in_lb__white"
+                        android:textSize = "16sp"
+                        />
+
+                  <TextView
+                        android:id = "@+id/floor_change_message"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:gravity = "center_vertical"
+                        android:text = "Remember to long tap on a floor once you are there."
+                        android:textColor = "@color/si_in_lb__white"
+                        android:textSize = "14sp"
+                        />
+            </LinearLayout >
+
+            <ImageView
+                  android:id = "@+id/floor_change_image"
+                  android:layout_width = "60dp"
+                  android:layout_height = "60dp"
+                  android:layout_marginLeft = "10dp"
+                  android:layout_marginTop = "8dp"
+                  android:background = "@color/si_in_lb__transparent"
+                  android:src = "@drawable/si_in_lb__ic_escalator_white"
+                  />
+      </RelativeLayout >
+
+      <ImageView
+            android:id = "@+id/floor_change_band_close"
+            android:layout_width = "60dp"
+            android:layout_height = "60dp"
+            android:layout_alignParentRight = "true"
+            android:layout_alignParentTop = "true"
+            android:layout_marginRight = "5dp"
+            android:background = "@drawable/si_in_lb__user_position_anchor_background"
+            android:contentDescription = "@string/action_settings"
+            android:padding = "13dp"
+            android:src = "@drawable/si_in_lb__ic_close_blue"
+            />
+
+</RelativeLayout >

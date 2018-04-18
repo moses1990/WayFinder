@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/map_fragment_container">
+    <ListView
+        android:id="@+id/intripper_floor_list"
+        android:layout_width="50dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dip"
+        android:background="@color/intripper_transparent"
+        android:divider="@color/intripper_transparent"
+        android:listSelector="@color/intripper_transparent"
+        android:visibility="invisible" >
+    </ListView>
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="18dp"
+        android:src="@drawable/intripper_logo_shadow"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:alpha="0.8"
+        />
+
+</RelativeLayout>

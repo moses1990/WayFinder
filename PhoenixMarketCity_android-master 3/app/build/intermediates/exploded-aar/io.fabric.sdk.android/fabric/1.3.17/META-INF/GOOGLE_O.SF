@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: ZbZ7g8yuVKyqGXzF97d4Bb0Fgp9rk
+ A3GqZECGP/obeU=
+SHA-256-Digest-Manifest: MP6U54y224zwGpodMibovatYFx25S6EYZ8iO/9ADXlw=
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: classes.jar
+SHA-256-Digest: QHQY23pWfI8Mtt+LsXBdC68Hlg6MBbV6BqklD9zMk94=
+
+Name: aapt/AndroidManifest.xml
+SHA-256-Digest: xfcRilgu31TZtaqhNKnOA4qr/NzcKmGrxw8O9KASvcg=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: yQWPX5LNs/WkNLNWhbRnZzvJxe/KqhTG9vK8e44FvBk=
+
+Name: proguard.txt
+SHA-256-Digest: SP+CCf2/oDPYenD6v4rmsrccJ1idvNEBbUz9XJbBVFA=
+

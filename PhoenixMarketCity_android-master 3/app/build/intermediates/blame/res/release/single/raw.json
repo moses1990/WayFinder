@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/raw/style_2.json",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/Intripper_2.5/res/raw/style_2.json"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/raw/retro_no_labels.json",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/Intripper_2.5/res/raw/retro_no_labels.json"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/raw/moses.mov",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/raw/moses.mov"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/raw/style_underground_2_no_labels.json",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/Intripper_2.5/res/raw/style_underground_2_no_labels.json"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/raw/style_underground_no_labels.json",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/Intripper_2.5/res/raw/style_underground_no_labels.json"
+    }
+]

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/findByCategoryLayout"
+    android:visibility="invisible">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:layout_marginTop="-50dp"
+        android:layout_below="@+id/alabhabetsImage"
+        android:layout_height="wrap_content">
+
+    <GridView
+        android:id="@+id/gridviewcategory"
+        android:background="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:columnWidth="150dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:gravity="center"
+        android:stretchMode="spacingWidthUniform"
+        android:layout_marginTop="50dp"
+        />
+
+
+    <View
+        android:id="@+id/myView"
+        android:layout_below="@+id/gridviewcategory"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#C7C7CD"
+        android:layout_margin="10dp"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/selectCategoryTextView"
+        android:layout_below="@id/myView"
+        android:text="Select category to view stores"/>
+
+
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/selectCategoryTextView"
+        android:layout_height="wrap_content">
+
+
+
+        <LinearLayout
+
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            >
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:id="@+id/General_Fashion"
+                android:text="General Fashion"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:layout_height="match_parent"
+                android:id="@+id/Mens_Fashion"
+                android:text="Mens Fashion"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:id="@+id/Womens_Fashion"
+                android:text="@string/Womens_Fashion"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:background="#F7F7F7"
+                android:layout_height="match_parent"
+                android:id="@+id/Department_Stores"
+                android:text="Department Stores"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="80dp">
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:layout_height="match_parent"
+                android:id="@+id/Foot_Fashion_Bags_Luggage_Accessories"
+                android:text="@string/Foot_Fashion_Bags_Luggage_Accessories"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:id="@+id/watches_fashion_accessories"
+                android:text="@string/watches_fashion_accessories"/>
+
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:id="@+id/Jewellery"
+                android:layout_height="match_parent"
+                android:text="Jewellery"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:id="@+id/Sportswear_Sportsgear"
+                android:text="@string/Sportswear_Sportsgear"/>
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="80dp">
+
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:padding="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:id="@+id/Lingerie_Innerwears"
+                android:layout_height="match_parent"
+                android:text="@string/Lingerie_Innerwears"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:layout_height="match_parent"
+                android:id="@+id/cosmetics_salon_spas_optics"
+                android:text="@string/cosmetics_salon_spas_optics"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:layout_height="match_parent"
+                android:id="@+id/Pens_Books_Music_Toys_Games"
+                android:text="@string/Pens_Books_Music_Toys_Games"/>
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:layout_height="match_parent"
+                android:id="@+id/home_accessories_gifts_hobbies"
+                android:text="@string/home_accessories_gifts_hobbies"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="80dp">
+
+
+
+
+
+            <Button
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#F7F7F7"
+                android:layout_width="0dp"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:id="@+id/cafes_restaurants_desserts_gourmet"
+                android:text="@string/cafes_restaurants_desserts_gourmet"/>
+
+        </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/closeFindByCategory"
+            android:background="#ffffff"
+            android:layout_gravity="right"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:layout_margin="10dp"
+            android:text="HOMESCREEN"/>
+
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:elevation="5dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/categoriesheader"
+        android:id="@+id/alabhabetsImage"
+        android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>

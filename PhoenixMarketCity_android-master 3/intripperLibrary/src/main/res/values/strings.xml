@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Intripper library project</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Lingerie_Innerwears">Lingerie &amp; Innerwears</string>
+    <string name="Foot_Fashion_Bags_Luggage_Accessories">Shoes, bags &amp; luggage</string>
+    <string name="Fashion_Accessories">Fashion &amp; Accessories</string>
+
+    <string name="cafes_restaurants_desserts_gourmet">Food</string>
+    <string name="cosmetics_salon_spas_optics">Cosmetics, Salon, Spas &amp; Optics</string>
+    <string name="Womens_Fashion">Womens Fashion</string>
+    <string name="books_music_toys_games">Books, Music, Toys &amp; Games</string>
+
+    <string name="home_accessories_gifts_hobbies">Home Accessories, Gifts &amp; Hobbiess</string>
+    <string name="watches_fashion_accessories">Watches &amp; Fashion Accessories</string>
+
+    <string name="Sportswear_Sportsgear">Sports</string>
+    <string name="Pens_Books_Music_Toys_Games">Books,Music,Toys &amp; Games</string>
+
+
+    <string name="electronics_gizmos_gadgets">Electronics, Gizmos &amp; Gadgets</string>
+    <string name="foot_fashion_bags_luggage_accessories">Foot Fashion, Bags, Luggage &amp; Accessories</string>
+
+
+</resources>

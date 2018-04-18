@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sanginfo.intripper.libraryproject.components.MaterialRippleLayout
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      xmlns:app = "http://schemas.android.com/apk/res-auto"
+      android:layout_width = "match_parent"
+      android:layout_height = "wrap_content"
+      app:il_mrl_rippleAlpha = "0.2"
+      app:il_mrl_rippleColor = "@color/app_primary_color"
+      app:il_mrl_rippleHover = "true"
+      app:il_mrl_rippleOverlay = "true"
+      >
+
+      <RelativeLayout
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:background = "@color/si_in_lb__transparent"
+            >
+
+            <ImageView
+                  android:id = "@+id/search_history_icon"
+                  android:layout_width = "20dip"
+                  android:layout_height = "20dip"
+                  android:layout_alignParentLeft = "true"
+                  android:layout_centerVertical = "true"
+                  android:layout_marginBottom = "10dip"
+                  android:layout_marginLeft = "10dip"
+                  android:layout_marginRight = "10dip"
+                  android:layout_marginTop = "10dip"
+                  android:alpha = "1.0"
+                  android:contentDescription = "@string/action_settings"
+                  android:src = "@drawable/si_in_lb__ic_clock_3"
+                  />
+
+            <TextView
+                  android:id = "@+id/section_name"
+                  android:layout_width = "match_parent"
+                  android:layout_height = "wrap_content"
+                  android:layout_centerVertical = "true"
+                  android:layout_marginBottom = "8dp"
+                  android:layout_marginLeft = "10dip"
+                  android:layout_marginRight = "5dip"
+                  android:layout_marginTop = "8dp"
+                  android:layout_toRightOf = "@id/search_history_icon"
+                  android:background = "@color/si_in_lb__transparent"
+                  android:text = "Information Counter"
+                  android:textColor = "@color/charcoal_grey"
+                  android:textSize = "@dimen/description_text_size"
+                  />
+      </RelativeLayout >
+</com.sanginfo.intripper.libraryproject.components.MaterialRippleLayout>

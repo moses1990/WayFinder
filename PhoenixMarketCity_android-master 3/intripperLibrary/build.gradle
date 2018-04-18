@@ -1,0 +1,86 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+
+apply plugin: 'com.android.library'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 25
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/dependencies.txt'
+        exclude 'META-INF/LGPL2.1'
+        exclude 'org/apache/http/entity/mime/version.properties'
+        exclude 'org/apache/http/client/version.properties'
+        exclude 'org/apache/http/version.properties'
+        exclude 'META-INF/maven/org.apache.httpcomponents/httpcore/pom.xml'
+        exclude 'META-INF/maven/org.apache.httpcomponents/httpmime/pom.xml'
+        exclude 'META-INF/maven/org.apache.httpcomponents/httpclient/pom.xml'
+        exclude 'META-INF/maven/org.apache.httpcomponents/httpmime/pom.properties'
+        exclude 'META-INF/maven/org.apache.httpcomponents/httpcore/pom.properties'
+        exclude 'META-INF/maven/org.apache.httpcomponents/httpclient/pom.properties'
+    }
+
+}
+
+repositories {
+    maven { url "http://indooratlas-ltd.bintray.com/mvn-public" }
+
+    flatDir {
+        dirs 'libs'
+    }
+
+    maven { url 'https://maven.fabric.io/public' }
+}
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile(name: 'Intripper_2.5', ext: 'aar')
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    compile('com.android.support:appcompat-v7:25.3.1') {
+        exclude module: 'support-v4'
+    }
+    compile 'com.google.android.gms:play-services-maps:11.0.0'
+    compile 'com.google.code.gson:gson:2.5'
+    compile('com.android.support:multidex:1.0.1') {
+        exclude module: 'support-v4'
+    }
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.3'
+    compile 'com.hannesdorfmann.smoothprogressbar:library:1.0.0'
+    compile 'com.sothree.slidinguppanel:library:3.3.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+
+    compile('com.crashlytics.sdk.android:crashlytics:2.6.8@aar') {
+        transitive = true;
+    }
+
+    compile 'net.hockeyapp.android:HockeySDK:5.1.0'
+
+}

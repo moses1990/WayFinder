@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:visibility="invisible"
+    android:id="@+id/storecontentlayout"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/locatestorebutton"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:textColor="#ffffff"
+        android:textSize="10dp"
+        android:text="Locate Store"
+        android:background="@drawable/cornerradius"
+        android:padding="10dp"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:padding="0.5dp"
+        android:background="#d8d8d8"
+        android:layout_margin="10dp"
+        android:id="@+id/contentImageViewLayout"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/contentImageView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/gridplaceholder"/>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/contentLayout"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@+id/contentImageViewLayout"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/storenamelabel"
+            android:text="H and M"
+            android:textColor="#000000"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/storedescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="#4A4A4A"
+            android:text="Is a Swedish multinational clothing-retail company known for its fast-fashion clothing for men, women, teenagers and children. It is the second-largest global clothing retailer, just behind Spain-based Inditex. The company has a significant on-line presence, with on-line shopping available in 33 countries"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/storecontentbackbutton"
+        android:layout_width="wrap_content"
+        android:textStyle="bold"
+        android:text="BACK"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/contentLayout"
+        android:background="#ffffff"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

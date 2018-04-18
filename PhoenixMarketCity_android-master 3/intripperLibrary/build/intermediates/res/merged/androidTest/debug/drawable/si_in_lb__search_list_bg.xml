@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android = "http://schemas.android.com/apk/res/android" >
+      <!-- <item android:state_pressed="true" android:drawable="@color/grey_shaded_color"></item>
+         <item android:state_pressed="false" android:drawable="@color/grey_shaded_color_translucent"></item>-->
+      <item android:drawable = "@color/grey_shaded_color_translucent" android:state_pressed = "true" ></item >
+      <item android:drawable = "@color/si_in_lb__transparent" android:state_pressed = "false" ></item >
+</selector >

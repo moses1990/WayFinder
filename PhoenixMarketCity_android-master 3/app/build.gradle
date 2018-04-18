@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.sanginfo.android.phoenix"
+        minSdkVersion 21
+        targetSdkVersion 25
+        versionCode 5
+        versionName "1.5"
+        multiDexEnabled true
+        manifestPlaceholders = [HOCKEYAPP_APP_ID: "ecbd7c30539f4c92a8f259b69d5ddcdd"]
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+repositories {
+    maven { url "http://indooratlas-ltd.bintray.com/mvn-public" }
+    flatDir {
+        dirs 'libs'
+        dirs project(':intripperLibrary').file('libs')
+    }
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile('com.android.support:appcompat-v7:25.3.1') {
+        exclude module: 'support-v4'
+    }
+    compile 'com.android.support:design:25.3.1'
+    compile project (':intripperLibrary')
+    compile('com.android.support:multidex:1.0.1') {
+        exclude module: 'support-v4'
+    }
+    //compile 'com.google.android.gms:play-services:8.3.0'
+    compile 'com.google.android.gms:play-services:11.0.0'
+    //compile 'com.google.android.gms:play-services-maps:8.3.0'
+    compile 'com.google.android.gms:play-services-maps:11.0.0'
+
+    compile 'net.hockeyapp.android:HockeySDK:5.1.0'
+
+}

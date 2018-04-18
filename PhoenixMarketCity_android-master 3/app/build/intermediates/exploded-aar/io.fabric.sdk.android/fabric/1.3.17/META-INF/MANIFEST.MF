@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: classes.jar
+SHA-256-Digest: GCHY42+MDvaKh4cRbnDlZ4ZqWwqE1QXfi4CLCOPYm7Q=
+
+Name: aapt/AndroidManifest.xml
+SHA-256-Digest: PBdGVTZ5Stt+OEPQNJcMYYT4jLjZOIP1z1+OzHhPHWU=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: PBdGVTZ5Stt+OEPQNJcMYYT4jLjZOIP1z1+OzHhPHWU=
+
+Name: proguard.txt
+SHA-256-Digest: 7HcGOT5G+ifHZtwIQ56J4BLz+zsOOSxzli788nMcC8U=
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+              xmlns:app = "http://schemas.android.com/apk/res-auto"
+              xmlns:tools = "http://schemas.android.com/tools"
+              android:layout_width = "fill_parent"
+              android:layout_height = "240dp"
+              android:layout_marginLeft = "10dp"
+              android:layout_marginRight = "10dp"
+              android:orientation = "vertical"
+              android:paddingBottom = "15dp"
+              tools:si_in_lb__context = ".ui.MapActivity"
+      >
+
+      <RelativeLayout
+            android:id = "@+id/mainContainer"
+            android:layout_width = "fill_parent"
+            android:layout_height = "match_parent"
+            android:visibility = "visible"
+            >
+
+            <RelativeLayout
+                  android:id = "@+id/relContent"
+                  android:layout_width = "fill_parent"
+                  android:layout_height = "80dp"
+                  android:background = "@drawable/si_in_lb__top_white_curved_background"
+                  android:visibility = "visible"
+                  >
+
+                  <TextView
+                        android:id = "@+id/notification_message"
+                        android:layout_width = "match_parent"
+                        android:layout_height = "wrap_content"
+
+                        android:gravity = "center"
+                        android:padding = "10dp"
+                        android:text = "You have arrived!"
+                        android:textColor = "@color/charcoal_grey"
+                        android:textSize = "@dimen/title_text_size"
+                        android:visibility = "visible"
+                        />
+
+            </RelativeLayout >
+
+            <RelativeLayout
+                  android:id = "@+id/relContentBlue"
+                  android:layout_width = "fill_parent"
+                  android:layout_height = "40dp"
+                  android:layout_below = "@+id/relContent"
+                  android:background = "@color/charcoal_grey"
+                  android:visibility = "visible"
+                  >
+
+            </RelativeLayout >
+
+            <RelativeLayout
+                  android:layout_width = "match_parent"
+                  android:layout_height = "60dp"
+                  android:layout_below = "@+id/relContentBlue"
+                  android:background = "@drawable/si_in_lb__bottom_curved_bg_charcoal_grey"
+                  android:paddingTop = "10dp"
+                  >
+
+                  <com.sanginfo.intripper.libraryproject.components.MaterialRippleLayout
+                        android:id = "@+id/ok_button"
+                        android:layout_width = "match_parent"
+                        android:layout_height = "match_parent"
+                        android:visibility = "visible"
+                        app:il_mrl_rippleAlpha = "0.4"
+                        app:il_mrl_rippleColor = "@color/si_in_lb__white"
+                        app:il_mrl_rippleHover = "true"
+
+                        >
+
+                        <TextView
+                              android:id = "@+id/txtExitNavigation"
+                              android:layout_width = "match_parent"
+                              android:layout_height = "match_parent"
+                              android:clickable = "true"
+                              android:gravity = "center"
+                              android:padding = "10dp"
+                              android:text = "Exit Navigation"
+                              android:textColor = "@color/si_in_lb__white"
+                              android:textSize = "@dimen/title_text_size"
+                              >
+                        </TextView >
+
+                  </com.sanginfo.intripper.libraryproject.components.MaterialRippleLayout>
+            </RelativeLayout >
+
+            <ImageView
+                  android:id = "@+id/done_icon"
+                  android:layout_width = "80dp"
+                  android:layout_height = "80dp"
+                  android:layout_alignParentTop = "true"
+                  android:layout_centerHorizontal = "true"
+                  android:layout_marginTop = "45dp"
+                  android:background = "@drawable/si_in_lb__ic_location_found_tick_bg"
+                  android:padding = "10dp"
+                  android:src = "@drawable/si_in_lb__ic_action_done"
+                  android:visibility = "visible"
+                  />
+      </RelativeLayout >
+</LinearLayout >

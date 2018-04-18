@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- offer notification bubble starts here -->
+<RelativeLayout
+      android:id = "@+id/offer_notification_bubble"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "wrap_content"
+      android:layout_height = "wrap_content"
+      android:visibility = "invisible"
+      >
+
+      <ImageView
+            android:layout_width = "45dip"
+            android:layout_height = "45dip"
+            android:layout_centerInParent = "true"
+            android:src = "@drawable/si_in_lb__blue_circle"
+            />
+
+      <ImageView
+            android:id = "@+id/tag_image"
+            android:layout_width = "20dip"
+            android:layout_height = "20dip"
+            android:layout_centerInParent = "true"
+            android:src = "@drawable/si_in_lb__offer_icon"
+            />
+</RelativeLayout >
+      <!-- offer notification bubble ends here -->

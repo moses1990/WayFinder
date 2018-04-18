@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+      android:id = "@+id/navigation_container"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "match_parent"
+      android:layout_height = "70dp"
+      android:layout_centerVertical = "true"
+      android:background = "@drawable/si_in_lb__navigation_top_bar_bg"
+      android:visibility = "visible"
+      >
+
+      <RelativeLayout
+            android:id = "@+id/top_container"
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:layout_centerVertical = "true"
+            android:visibility = "visible"
+            >
+
+            <ImageView
+                  android:id = "@+id/previous_point"
+                  android:layout_width = "25dip"
+                  android:layout_height = "35dip"
+                  android:layout_alignParentLeft = "true"
+                  android:layout_centerVertical = "true"
+                  android:background = "@drawable/si_in_lb__background_press_effect"
+                  android:padding = "5dp"
+                  android:src = "@drawable/si_in_lb__ic_action_previous_item"
+                  />
+
+            <RelativeLayout
+                  android:layout_width = "wrap_content"
+                  android:layout_height = "wrap_content"
+                  android:layout_centerVertical = "true"
+                  android:layout_marginLeft = "5dip"
+                  android:layout_toLeftOf = "@+id/next_point"
+                  android:layout_toRightOf = "@+id/previous_point"
+                  >
+
+                  <ImageView
+                        android:id = "@+id/direction_sign"
+                        android:layout_width = "35dip"
+                        android:layout_height = "35dip"
+                        android:layout_centerVertical = "true"
+                        android:padding = "5dip"
+                        android:src = "@drawable/si_in_lb__turn_start_white"
+                        android:visibility = "visible"
+                        />
+
+                  <TextView
+                        android:id = "@+id/direction_text"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_centerVertical = "true"
+                        android:layout_toRightOf = "@+id/direction_sign"
+                        android:text = "Turn Left"
+                        android:textColor = "@android:color/white"
+                        android:textSize = "@dimen/pager_text_size"
+                        />
+
+                  <TextView
+                        android:id = "@+id/distance_text"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_below = "@+id/direction_text"
+                        android:layout_centerVertical = "true"
+                        android:alpha = "0.8"
+                        android:text = "150 meters"
+                        android:textColor = "@android:color/white"
+                        android:textSize = "@dimen/pager_text_size"
+                        android:visibility = "gone"
+                        />
+            </RelativeLayout >
+
+            <ImageView
+                  android:id = "@+id/next_point"
+                  android:layout_width = "25dip"
+                  android:layout_height = "25dip"
+                  android:layout_alignParentRight = "true"
+                  android:layout_centerVertical = "true"
+                  android:background = "@drawable/si_in_lb__background_press_effect"
+                  android:padding = "5dp"
+                  android:src = "@drawable/si_in_lb__ic_action_next_item"
+                  />
+      </RelativeLayout >
+</RelativeLayout >

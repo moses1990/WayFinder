@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+      android:id = "@+id/search_bar_container"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "wrap_content"
+      android:layout_height = "wrap_content"
+      android:clickable = "false"
+      android:descendantFocusability = "beforeDescendants"
+      android:focusableInTouchMode = "true"
+      android:paddingBottom = "5dip"
+      android:paddingTop = "8dip"
+      android:visibility = "gone"
+      >
+
+      <ImageView
+            android:id = "@+id/search_icon"
+            android:layout_width = "0dp"
+            android:layout_height = "0dp"
+            android:layout_centerVertical = "true"
+            android:layout_marginRight = "7dip"
+            android:padding = "15dp"
+            android:visibility = "gone"
+            />
+
+</RelativeLayout >

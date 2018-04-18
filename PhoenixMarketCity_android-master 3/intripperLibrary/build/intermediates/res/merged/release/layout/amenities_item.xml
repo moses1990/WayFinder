@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/amenityNameLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="match_parent"
+            android:background="#979797"
+            android:layout_centerVertical="true"
+            android:layout_height="1dp">
+
+        </View>
+
+        <ImageView
+            android:id="@+id/amenityImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="40dp"
+            android:background="#ffffff"
+            android:padding="5dp"
+            android:src="@drawable/atm"/>
+
+        <TextView
+            android:id="@+id/amenity_item_name"
+            android:textColor="#000000"
+            android:text="dummy"
+            android:padding="10dp"
+            android:background="#ffffff"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/amenityImage"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+
+    </RelativeLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_below="@+id/amenityNameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/horizontal_list"
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            android:layout_height="50dp"
+            android:visibility="visible"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

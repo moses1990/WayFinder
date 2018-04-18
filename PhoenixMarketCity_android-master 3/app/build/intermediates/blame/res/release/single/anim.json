@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadein_top.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadein_top.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadeout.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadeout.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadeout_left.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadeout_left.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadein.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadein.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadeout_right.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadeout_right.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fade_out_dialog.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fade_out_dialog.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__bounce_pop_up.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__bounce_pop_up.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadeout_bottom.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadeout_bottom.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__rotate_with_bounce.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__rotate_with_bounce.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/close_main.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/src/main/res/anim/close_main.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadein_right.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadein_right.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadein_left.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadein_left.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/open_main.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/src/main/res/anim/open_main.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/open_next.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/src/main/res/anim/open_next.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__bounce_pop_up_close.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__bounce_pop_up_close.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadeout_top.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadeout_top.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/si_in_lb__fadein_bottom.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/PhoenixMarketCity_android-master 3/intripperLibrary/unspecified/res/anim/si_in_lb__fadein_bottom.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/anim/close_next.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/src/main/res/anim/close_next.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+      android:id = "@+id/user_position_anchor"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "60dp"
+      android:layout_height = "60dp"
+      android:elevation = "5dp"
+       android:visibility="visible"
+      >
+
+      <ImageView
+            android:id = "@+id/user_postion_anchor_point"
+            android:layout_width = "60dp"
+            android:layout_height = "60dp"
+            android:src = "@drawable/locateme"
+            />
+
+</RelativeLayout >

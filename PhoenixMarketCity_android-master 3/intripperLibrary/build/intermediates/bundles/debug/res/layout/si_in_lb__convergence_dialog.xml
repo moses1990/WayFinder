@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+      android:id = "@+id/main_dialog_container"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      xmlns:shimmer = "http://schemas.android.com/apk/res-auto"
+      android:layout_width = "match_parent"
+      android:layout_height = "240dp"
+      android:orientation = "vertical"
+      >
+
+      <RelativeLayout
+            android:id = "@+id/location_fix_containera"
+            android:layout_width = "match_parent"
+            android:layout_height = "240dp"
+            android:layout_centerVertical = "true"
+            android:background = "@drawable/si_in_lb__layer_card_background"
+            android:gravity = "center"
+            android:visibility = "visible"
+            >
+
+            <RelativeLayout
+                  android:id = "@+id/rel_location_message_container_bottom"
+                  android:layout_width = "match_parent"
+                  android:layout_height = "150dp"
+                  android:layout_alignParentBottom = "true"
+                  android:background = "@drawable/si_in_lb__card_background_bottom_charcoal"
+                  >
+
+                  <com.sanginfo.intripper.libraryproject.controls.ShimmerFrameLayout
+                        android:id = "@+id/lnl_location_fixmessage_container"
+                        android:layout_width = "wrap_content"
+                        android:layout_height = "wrap_content"
+                        android:layout_alignParentBottom = "true"
+                        android:layout_centerHorizontal = "true"
+                        shimmer:il_duration = "1000"
+                        >
+
+                        <TextView
+                              android:id = "@+id/location_message"
+                              android:layout_width = "wrap_content"
+                              android:layout_height = "wrap_content"
+                              android:layout_marginBottom = "45dp"
+                              android:text = "Trying to locate you.."
+                              android:textColor = "@color/si_in_lb__white"
+                              android:textSize = "20sp"
+                              />
+                  </com.sanginfo.intripper.libraryproject.controls.ShimmerFrameLayout>
+
+            </RelativeLayout >
+
+            <ImageView
+                  android:id = "@+id/needle_icon"
+                  android:layout_width = "80dp"
+                  android:layout_height = "80dp"
+                  android:layout_alignParentTop = "true"
+                  android:layout_centerHorizontal = "true"
+                  android:layout_marginTop = "45dp"
+                  android:background = "@drawable/si_in_lb__ic_pin_background"
+                  android:padding = "10dp"
+                  android:src = "@drawable/si_in_lb__ic_white_needle"
+                  />
+
+            <ImageView
+                  android:id = "@+id/done_icon"
+                  android:layout_width = "80dp"
+                  android:layout_height = "80dp"
+                  android:layout_alignParentTop = "true"
+                  android:layout_centerHorizontal = "true"
+                  android:layout_marginTop = "45dp"
+                  android:background = "@drawable/si_in_lb__ic_location_found_tick_bg"
+                  android:padding = "10dp"
+                  android:src = "@drawable/si_in_lb__ic_action_done"
+                  android:visibility = "invisible"
+                  />
+      </RelativeLayout >
+
+</LinearLayout >
+

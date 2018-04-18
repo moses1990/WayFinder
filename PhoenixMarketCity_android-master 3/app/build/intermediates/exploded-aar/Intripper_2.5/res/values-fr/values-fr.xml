@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intripper_sdk_default_floor_name">0</string>
+    <string name="intripper_sdk_user_not_visible">position de l\'utilisateur pas réglé</string>
+</resources>

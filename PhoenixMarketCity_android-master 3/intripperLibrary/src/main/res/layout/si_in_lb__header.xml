@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+      android:id = "@+id/search_bar_container"
+      xmlns:android = "http://schemas.android.com/apk/res/android"
+      android:layout_width = "match_parent"
+      android:layout_height = "wrap_content"
+      android:clickable = "true"
+      android:descendantFocusability = "beforeDescendants"
+      android:focusableInTouchMode = "true"
+      android:visibility = "visible"
+      >
+
+      <RelativeLayout
+            android:id = "@+id/search_bar_box"
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:background = "@drawable/si_in_lb__searchbar_bg_green"
+            android:visibility = "visible"
+            >
+
+            <LinearLayout
+                  android:id = "@+id/lnl_search_container"
+                  android:layout_width = "match_parent"
+                  android:layout_height = "wrap_content"
+                  android:orientation = "horizontal"
+                  android:paddingTop = "2dip"
+                  android:weightSum = "1"
+                  >
+
+                  <ImageView
+                        android:id = "@+id/back_button"
+                        android:layout_width = "50dp"
+                        android:layout_height = "match_parent"
+                        android:layout_margin = "10dip"
+                        android:layout_marginRight = "10dp"
+                        android:clickable = "true"
+                        android:contentDescription = "@string/action_settings"
+                        android:padding = "5dp"
+                        android:src = "@drawable/si_in_lb__ic_hardware_keyboard_backspace"
+                        android:visibility = "visible"
+                        />
+
+                  <EditText
+                        android:id = "@+id/search_text"
+                        android:layout_width = "0dp"
+                        android:layout_height = "40dip"
+                        android:layout_centerVertical = "true"
+                        android:layout_margin = "10dip"
+                        android:layout_weight = "1"
+                        android:background = "@android:color/transparent"
+                        android:hint = "search"
+                        android:paddingLeft = "5dip"
+                        android:textColor = "@color/si_in_lb__white"
+                        android:textColorHint = "#99F2F2F2"
+                        android:textCursorDrawable = "@drawable/si_in_lb__color_cursor"
+                        />
+
+                  <ImageView
+                        android:id = "@+id/search_icon"
+                        android:layout_width = "55dp"
+                        android:layout_height = "55dp"
+                        android:layout_alignParentRight = "true"
+                        android:layout_centerVertical = "true"
+                        android:layout_marginRight = "7dip"
+                        android:layout_marginTop = "4dp"
+                        android:padding = "15dp"
+                        android:src = "@drawable/si_in_lb__ic_local_search_general"
+                        android:visibility = "visible"
+                        />
+
+                  <ImageView
+                        android:id = "@+id/text_cancel_icon"
+                        android:layout_width = "55dp"
+                        android:layout_height = "55dp"
+                        android:layout_alignParentRight = "true"
+                        android:layout_centerVertical = "true"
+                        android:layout_marginRight = "7dip"
+                        android:layout_marginTop = "4dp"
+                        android:contentDescription = "@string/action_settings"
+                        android:padding = "15dp"
+                        android:src = "@drawable/si_in_lb__ic_navigation_close"
+                        android:visibility = "gone"
+                        />
+            </LinearLayout >
+      </RelativeLayout >
+
+      <RelativeLayout
+            android:id = "@+id/search_bar_box_old"
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:layout_margin = "10dip"
+            android:background = "@drawable/si_in_lb__blue_rounded_box"
+            android:clickable = "true"
+            android:descendantFocusability = "beforeDescendants"
+            android:focusableInTouchMode = "true"
+            android:paddingBottom = "5dip"
+            android:paddingTop = "5dip"
+            android:visibility = "invisible"
+            >
+
+            <EditText
+                  android:id = "@+id/search_text_old"
+                  android:layout_width = "match_parent"
+                  android:layout_height = "wrap_content"
+                  android:layout_centerVertical = "true"
+                  android:layout_marginLeft = "5dip"
+                  android:layout_marginRight = "5dip"
+                  android:background = "#00000000"
+                  android:clickable = "true"
+                  android:hint = "Search"
+                  android:inputType = "textNoSuggestions"
+                  android:paddingLeft = "40dip"
+                  android:paddingRight = "32dip"
+                  android:singleLine = "true"
+                  android:textColor = "@color/dark_text_color"
+                  android:textColorHint = "@color/grey_text_color"
+                  android:textSize = "@dimen/offer_title_size"
+                  >
+            </EditText >
+
+            <ImageView
+                  android:id = "@+id/settings_menu_puller"
+                  android:layout_width = "23dip"
+                  android:layout_height = "23dip"
+                  android:layout_alignParentLeft = "true"
+                  android:layout_centerVertical = "true"
+                  android:layout_marginLeft = "12dip"
+                  android:alpha = "0.47"
+                  android:contentDescription = "@string/action_settings"
+                  android:src = "@drawable/si_in_lb__menu_icon"
+                  android:visibility = "gone"
+                  />
+
+            <ImageView
+                  android:id = "@+id/search_icon_old"
+                  android:layout_width = "30dip"
+                  android:layout_height = "30dip"
+                  android:layout_alignParentLeft = "true"
+                  android:layout_centerVertical = "true"
+                  android:layout_marginLeft = "5dip"
+                  android:alpha = "1.0"
+                  android:src = "@drawable/si_in_lb__ic_omni_box_search"
+                  />
+
+      </RelativeLayout >
+
+</RelativeLayout >

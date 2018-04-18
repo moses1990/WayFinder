@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/mosesafonso/Downloads/PhoenixMarketCity_android-master 3/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="intripper_anchor_area_color">#BBfcecca</color>
+    <color name="intripper_anchor_area_stroke_color">#eecea8</color>
+    <color name="intripper_blue_color">#FF5B9BD5</color>
+    <color name="intripper_floor_pressed_color">#302B7EB9</color>
+    <color name="intripper_grey_color">#FFCACACA</color>
+    <color name="intripper_label_color">#FF2E3B4C</color>
+    <color name="intripper_orange_text_color">#FFF1A924</color>
+    <color name="intripper_path_arrow_color">#FFFFFFFF</color>
+    <color name="intripper_path_blue_inner">#FF4597FF</color>
+    <color name="intripper_path_blue_outer">#FF3C6CD5</color>
+    <color name="intripper_path_highlight_color">#99FFFFFF</color>
+    <color name="intripper_transparent">#00000000</color>
+    <color name="intripper_white_color">#FFFFFF</color>
+    <color name="it__accuracy_radius_color">#110000FF</color>
+    <string name="intripper_sdk_default_floor_name">0</string>
+    <string name="intripper_sdk_store_not_found">Store not found</string>
+    <string name="intripper_sdk_user_not_visible">user position not set</string>
+</resources>
